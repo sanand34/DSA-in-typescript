@@ -64,4 +64,4 @@ ll.add(3);
 ll.add(4);
 ll.add(5);
 
-console.log(ll.get(2));
+console.log(ll.remove(2));
